@@ -18,7 +18,7 @@
         "gnhome": {
             "description": "<h1>GeoNode</h1><p>sharing geospatial data and maps.</p>",
             "orderBy": "ຈັດລຽງຕາມ",
-            "mostRecent": "Most recent",
+            "mostRecent": "ທີ່ເຂົ້າເບິ່ງຫຼາຍທີ່ສຸດ",
             "lessRecent": "Less recent",
             "aZ": "A Z",
             "zA": "Z A",
