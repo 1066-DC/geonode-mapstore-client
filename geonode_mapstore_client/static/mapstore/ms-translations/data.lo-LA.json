@@ -959,7 +959,7 @@
         "zoombuttons": {
             "zoomInTooltip": "Increase zoom",
             "zoomOutTooltip": "Decrease zoom",
-            "zoomAllTooltip": "Zoom to max extent"
+            "zoomAllTooltip": "Zoom to default extent"
         },
         "fullscreen": {
             "tooltipActivate": "Switch to full screen",
@@ -3011,8 +3011,8 @@
                 "title": "3D"
             },
             "ZoomAll": {
-                "description": "Sidebar button to zoom to the map extent of the map",
-                "title": "Zoom To Max Extent"
+                "description": "Sidebar button to zoom to the default map extent of the map",
+                "title": "Zoom To Default Extent"
             },
             "ZoomIn": {
                 "description": "Button that increase zoom level of the map",
